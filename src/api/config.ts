@@ -1,3 +1,6 @@
+// https://openweathermap.org/current#geocoding
+// https://openweathermap.org/api/geocoding-api#reverse
+
 export const API_CONFIG = {
   BASE_URL: "https://api.openweathermap.org/data/2.5",
   GEO: "http://api.openweathermap.org/geo/1.0",
